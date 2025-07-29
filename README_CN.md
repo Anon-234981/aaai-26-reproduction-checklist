@@ -2,11 +2,15 @@
 <a href="README.md"><img src="https://img.shields.io/badge/English-blue?style=for-the-badge" /></a>
 </div>
 
-# ⚠️ AAAI已经更新了官方模板，可以移步[https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/](https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/)，通过「AAAI-26 Author Kit」下载，在压缩包的「ReproducibilityChecklist」中。
+# ⚠️ AAAI已经更新了官方模板，可以移步[https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/](https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/)，通过「AAAI-26 Author Kit」下载，在压缩包的「ReproducibilityChecklist」中。您也可以参考`official-template`文件夹中的内容。
+
+官方可复现清单的渲染PDF效果如下：
+![Output Preview](assets/official-checklist.png)
+
 
 # 🤖 AAAI-26 可复现性清单模板
 
-本仓库为 AAAI-26 可复现性清单提供了一个 LaTeX 模板。
+本仓库为 AAAI-26 可复现性清单提供了一个 LaTeX 模板，存放于`old`文件夹下。
 
 ## 📝 AAAI-26 提交政策
 
@@ -18,7 +22,7 @@
 2.  根据您提交的内容，在 `template.tex` 文件中回答每个问题。
 3.  编译 LaTeX 文件以生成 PDF 清单：
     ```bash
-    pdflatex template.tex
+    pdflatex old/template.tex
     ```
 4.  渲染结果应如下所示：
 

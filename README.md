@@ -2,12 +2,15 @@
 <a href="README_CN.md"><img src="https://img.shields.io/badge/简体中文-blue?style=for-the-badge" /></a>
 </div>
 
-# ⚠️ IMPORTANT UPDATE: Note that AAAI has updated the official LaTeX template for the reproduction checklist, please refer to [https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/](https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/) to download the *AAAI-26 Author Kit*, where the template is under the folder named *ReproducibilityChecklist*.
+# ⚠️ IMPORTANT UPDATE: Note that AAAI has updated the official LaTeX template for the reproduction checklist, please refer to [https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/](https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/) to download the *AAAI-26 Author Kit*, where the template is under the folder named *ReproducibilityChecklist*. You can also refer to the copied files under the `official-template` folder.
+
+The official checklist should be looked like:
+![Output Preview](assets/official-checklist.png)
 
 
 # 🤖 AAAI-26 Reproduction Checklist Template
 
-This repository provides a LaTeX template for the AAAI-26 Reproduction Checklist.
+This repository provides a LaTeX template for the AAAI-26 Reproduction Checklist, as is saved under the `old` folder.
 
 ## 📝 AAAI-26 Submission Policy
 
@@ -19,7 +22,7 @@ This repository provides a LaTeX template for the AAAI-26 Reproduction Checklist
 2.  Answer each question in the `template.tex` file based on your submission.
 3.  Compile the LaTeX file to generate the PDF checklist:
     ```bash
-    pdflatex template.tex
+    pdflatex old/template.tex
     ```
 4.  The rendered result should look like this:
 
