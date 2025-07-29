@@ -2,6 +2,8 @@
 <a href="README.md"><img src="https://img.shields.io/badge/English-blue?style=for-the-badge" /></a>
 </div>
 
+# ⚠️ AAAI已经更新了官方模板，可以移步[https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/](https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/)，通过「AAAI-26 Author Kit」下载，在压缩包的「ReproducibilityChecklist」中。
+
 # 🤖 AAAI-26 可复现性清单模板
 
 本仓库为 AAAI-26 可复现性清单提供了一个 LaTeX 模板。

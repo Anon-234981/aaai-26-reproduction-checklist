@@ -2,6 +2,9 @@
 <a href="README_CN.md"><img src="https://img.shields.io/badge/简体中文-blue?style=for-the-badge" /></a>
 </div>
 
+# ⚠️ IMPORTANT UPDATE: Note that AAAI has updated the official LaTeX template for the reproduction checklist, please refer to [https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/](https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/) to download the *AAAI-26 Author Kit*, where the template is under the folder named *ReproducibilityChecklist*.
+
+
 # 🤖 AAAI-26 Reproduction Checklist Template
 
 This repository provides a LaTeX template for the AAAI-26 Reproduction Checklist.
