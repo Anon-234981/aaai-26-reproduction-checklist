@@ -7,6 +7,8 @@
 官方可复现清单的渲染PDF效果如下：
 ![Output Preview](assets/official-checklist.png)
 
+# ✍️ AAAI-26 最终检查清单
+我们更新并开源了一份[AAAI-26 最终检查清单](final-checklist.md)，希望能够帮助到所有投稿AAAI-26的小伙伴，提前预祝大家投稿顺利！ 💪
 
 # 🤖 AAAI-26 可复现性清单模板
 

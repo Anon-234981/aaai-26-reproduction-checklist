@@ -7,6 +7,8 @@
 The official checklist should be looked like:
 ![Output Preview](assets/official-checklist.png)
 
+# ✍️ AAAI-26 Submission Final Checklist
+We open-sourced [a final checklist](final-checklist.md) of AAAI-26 submissions. Hope this might do you a great favor! Wish you all the best with your AAAI-26 submissions! 💪
 
 # 🤖 AAAI-26 Reproduction Checklist Template
 
