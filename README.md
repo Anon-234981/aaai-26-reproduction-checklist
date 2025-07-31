@@ -2,13 +2,13 @@
 <a href="README_CN.md"><img src="https://img.shields.io/badge/简体中文-blue?style=for-the-badge" /></a>
 </div>
 
+# ✍️ AAAI-26 Submission Final Checklist
+We open-sourced [a final checklist](final-checklist.md) of AAAI-26 submissions. Hope this might do you a great favor! Wish you all the best with your AAAI-26 submissions! 💪
+
 # ⚠️ IMPORTANT UPDATE: Note that AAAI has updated the official LaTeX template for the reproduction checklist, please refer to [https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/](https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/) to download the *AAAI-26 Author Kit*, where the template is under the folder named *ReproducibilityChecklist*. You can also refer to the copied files under the `official-template` folder.
 
 The official checklist should be looked like:
 ![Output Preview](assets/official-checklist.png)
-
-# ✍️ AAAI-26 Submission Final Checklist
-We open-sourced [a final checklist](final-checklist.md) of AAAI-26 submissions. Hope this might do you a great favor! Wish you all the best with your AAAI-26 submissions! 💪
 
 # 🤖 AAAI-26 Reproduction Checklist Template
 

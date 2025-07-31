@@ -2,13 +2,14 @@
 <a href="README.md"><img src="https://img.shields.io/badge/English-blue?style=for-the-badge" /></a>
 </div>
 
+# ✍️ AAAI-26 最终检查清单
+我们更新并开源了一份[AAAI-26 最终检查清单](final-checklist.md)，希望能够帮助到所有投稿AAAI-26的小伙伴，提前预祝大家投稿顺利！ 💪
+
 # ⚠️ AAAI已经更新了官方模板，可以移步[https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/](https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/)，通过「AAAI-26 Author Kit」下载，在压缩包的「ReproducibilityChecklist」中。您也可以参考`official-template`文件夹中的内容。
 
 官方可复现清单的渲染PDF效果如下：
 ![Output Preview](assets/official-checklist.png)
 
-# ✍️ AAAI-26 最终检查清单
-我们更新并开源了一份[AAAI-26 最终检查清单](final-checklist.md)，希望能够帮助到所有投稿AAAI-26的小伙伴，提前预祝大家投稿顺利！ 💪
 
 # 🤖 AAAI-26 可复现性清单模板
 
